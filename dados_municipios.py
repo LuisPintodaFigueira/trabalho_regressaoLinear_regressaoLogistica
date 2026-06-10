@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import (
     mean_absolute_error,
     r2_score,
-    accuracy_score,
+    accuracy_score, 
     confusion_matrix
 )
 
